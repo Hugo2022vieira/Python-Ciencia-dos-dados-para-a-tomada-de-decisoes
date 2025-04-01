@@ -4,7 +4,6 @@ Este repositório contém exercícios de análise de dados. O foco é realizar o
 
 Estrutura do Repositório:
 
-O repositório contém os seguintes arquivos e diretórios:
-Exercício_1.ipynb
+O repositório contém os seguintes arquivos e diretórios: 
 
-Exercício_2.ipynb
+Exercício_1.ipynb e Exercício_2.ipynb
